@@ -1,4 +1,4 @@
-# FinGraph Chatbot
+# FinGraph Chatbot - Knowledge Graph RAG
 [Back to Home](https://github.com/Jarhatz/portfolia/tree/main#readme)
 ## Table of Contents
 - [Model Architecture](#section-1)
