@@ -1,4 +1,4 @@
-# Stockformer: A Time Series Transformer for Stock Prediction
+# FinGraph
 [Back to Home](https://github.com/Jarhatz/portfolia/tree/main#readme)
 ## Table of Contents
 - [Model Architecture](#section-1)
